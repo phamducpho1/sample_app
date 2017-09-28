@@ -128,8 +128,8 @@ en:
       welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
       activate: "Activate"
     password_reset:
-      reset: "User#password_reset"
-      re_password: "Reset Password"
+      reset: "User##password_reset"
+      re_password: "Reset Passsword"
       find: ", find me in app/views/user_mailer/password_reset.html.erb"
       click_link: "To reset your password click the link below:"
       expire_: "This link will expire in two hours."
