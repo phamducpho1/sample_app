@@ -5,6 +5,8 @@ user:
     maximum_length: 50
   password:
     minimum_length: 6
+  reset:
+    pass_word: 2
 sessions:
   check: 1
 gravatar:
