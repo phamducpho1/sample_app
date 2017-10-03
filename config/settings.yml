@@ -8,8 +8,17 @@ user:
   reset:
     pass_word: 2
 sessions:
-  check: 1
+  check: "1"
 gravatar:
-  size_option: 60
+  size_option: 20
 per_page:
   config: 4
+image:
+  size: 5
+micropost:
+  content:
+    max_length: 140
+picture:
+  accpect: "image/jpeg,image/gif,image/png"
+
+

@@ -53,6 +53,7 @@ en:
       welcome: "Welcome to the Sample App"
       for: "This is the home page for the "
       ahert: "Ruby on Rails Tutorial"
+      micropost: "Micropost Feed"
       application: "sample application."
       sign: "Sign up now!"
     help:
@@ -112,9 +113,16 @@ en:
       title: "Edit user"
       up: "Save changes"
       update: "Update your profile"
+      change: "change "
+    show:
+      micropost: "microposts"
   shared:
     _error_messages:
       error: "The form contains"
+    _micropost_form:
+      post: "Post"
+    _user_info:
+      view: "view my profile"
   sessions:
     new:
       login: "Log in"
@@ -139,5 +147,14 @@ en:
     edit:
       title: "Reset password"
       reset: "Reset password"
+      update : "Update passwords"
     new:
       title: "Forgot password"
+  micropost:
+    _micropost:
+      delete: "delete"
+      you_sur: "You sure?"
+    eror: "should be less than 5MB"
+    create: "Micropost created!"
+    delete: "Micropost deleted"
+    eror_delete: "deleted failed"
